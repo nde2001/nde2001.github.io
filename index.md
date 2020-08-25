@@ -1,6 +1,5 @@
 #### Thông tin khóa học:
-
-![khoahoc](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/110147524_1017254322066284_4494599012819051075_o.jpg?_nc_cat=108&_nc_sid=ca434c&_nc_ohc=HxuYeEmaQ_YAX-OnY9E&_nc_ht=scontent.fhan2-3.fna&oh=cec81af45a4e30009ad08a1759fe4e48&oe=5F673BF4)
+![khoahoc](https://scontent.fhan2-5.fna.fbcdn.net/v/t1.0-9/118406531_1037466216711761_5772148859667496361_o.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=2D0qRe3flIoAX_vCNyU&_nc_ht=scontent.fhan2-5.fna&oh=57f07b8699661e39c7789a00e65a5f19&oe=5F69140E)
 
 
 #### Liên hệ:
