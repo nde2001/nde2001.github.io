@@ -1,5 +1,5 @@
 #### Thông tin khóa học:
-![khoahoc](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/119011434_1051653045293078_2918231158481980070_o.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MRBfU9hhoRQAX9jDoxe&_nc_ht=scontent.fsgn2-4.fna&oh=cef67901bbe1d9e4397af1f889165185&oe=5F813613)
+![khoahoc](https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/119239165_1052232858568430_6147607854732177971_o.jpg?_nc_cat=100&_nc_sid=ca434c&_nc_ohc=vs_4ZKzERTsAX_ULrJJ&_nc_ht=scontent.fsgn2-6.fna&oh=91f3c99d4b95a0136a71d7a24f1c090b&oe=5F81797A)
 Note: lịch học có thể thay đổi
 
 #### Liên hệ:
