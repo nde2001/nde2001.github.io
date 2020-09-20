@@ -5,4 +5,4 @@ Note: lịch học có thể thay đổi
 #### Liên hệ:
 * Skype: live:thaiquocvo2001
 * Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)
-* Facebook Group: [https://www.facebook.com/groups/networkautomation2001/](https://www.facebook.com/groups/networkautomation2001/) (giành cho sinh viên, k
+* Facebook Group: [https://www.facebook.com/groups/networkautomation2001/](https://www.facebook.com/groups/networkautomation2001/) (giành cho sinh viên, kỹ sư networking) 
