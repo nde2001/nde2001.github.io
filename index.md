@@ -7,5 +7,3 @@ Fb group: [Tin học lập trình THCS và THPT (C, C++, Python)](https://www.fa
 #### Liên hệ:  
 Skype: live:thaiquocvo2001  
 Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)
-
-===================================================================
