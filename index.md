@@ -3,7 +3,6 @@
 Note: lịch học có thể thay đổi
 
 Fb group: [Network Automation & Cisco Devnet](https://www.facebook.com/groups/networkautomation2001/) (sinh viên, kỹ sư networking) 
-
 Fb group: [Tin học lập trình THCS và THPT (C, C++, Python)](https://www.facebook.com/groups/2327984310681255/) (học sinh THCS, THPT)
 
 
