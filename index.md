@@ -1,5 +1,5 @@
 #### Thông tin khóa học:
-![khoahoc](https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/119239165_1052232858568430_6147607854732177971_o.jpg?_nc_cat=100&_nc_sid=ca434c&_nc_ohc=vs_4ZKzERTsAX_ULrJJ&_nc_ht=scontent.fsgn2-6.fna&oh=91f3c99d4b95a0136a71d7a24f1c090b&oe=5F81797A)
+![khoahoc](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/121090748_1074593786332337_6090221007796146419_o.jpg?_nc_cat=109&_nc_sid=825194&_nc_ohc=dePKev3HUYIAX85yXE2&_nc_ht=scontent.fsgn2-4.fna&oh=dd981e5b14e38b3b9a02a5bb1d484356&oe=5FA76ABD)
 Note: lịch học có thể thay đổi       
 Fb group: [Network Automation & Cisco Devnet](https://www.facebook.com/groups/networkautomation2001/) (sinh viên, kỹ sư networking)        
 Fb group: [Tin học lập trình THCS và THPT (C, C++, Python)](https://www.facebook.com/groups/2327984310681255/) (học sinh THCS, THPT)
