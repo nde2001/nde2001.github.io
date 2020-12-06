@@ -5,5 +5,5 @@ Fb group: [Network Automation & Cisco Devnet](https://www.facebook.com/groups/ne
 Fb group: [Tin học lập trình THPT(C, C++, Python)](https://www.facebook.com/groups/2327984310681255/) (giành cho học sinh THPT)
 
 #### Liên hệ:  
-Skype: live:thaiquocvo2001  
 Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)
+Skype: live:thaiquocvo2001  
