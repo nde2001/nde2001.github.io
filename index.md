@@ -6,4 +6,4 @@ Fb group: [Tin học lập trình THPT(C, C++, Python)](https://www.facebook.com
 
 #### Liên hệ:  
 Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)          
-Skype: live:thaiquocvo2001
+Skype: thaiquocvo2001
