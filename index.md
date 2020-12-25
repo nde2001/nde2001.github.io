@@ -4,4 +4,5 @@ Facebook group: [Network Automation & Cisco Devnet](https://www.facebook.com/gro
 
 #### Liên hệ:  
 Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)          
-Skype: thaiquocvo2001
+Skype: thaiquocvo2001@gmail.com
+Zoom: thaiquocvo2001@gmail.com 
