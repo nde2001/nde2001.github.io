@@ -1,5 +1,5 @@
 #### Thông tin khóa học:
-![khoahoc](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/122479231_1087844165007299_5504323848781407086_o.jpg?_nc_cat=105&ccb=2&_nc_sid=825194&_nc_ohc=lI76JxFLGwsAX_tkcEQ&_nc_ht=scontent.fsgn2-1.fna&oh=e28ee77714413171dff4d405903ba4ab&oe=6009C229)  
+![khoahoc](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/132065720_1135071573617891_8160983629105542981_o.jpg?_nc_cat=107&ccb=2&_nc_sid=825194&_nc_ohc=A5RdLHXcudAAX8dh6HC&_nc_ht=scontent.fsgn2-1.fna&oh=44c9f3de774593fb5137aa10a545af85&oe=600BBD0C)  
 Facebook group: [Network Automation & Cisco Devnet](https://www.facebook.com/groups/networkautomation2001/) (sinh viên, kỹ sư networking)        
 
 #### Liên hệ:  
