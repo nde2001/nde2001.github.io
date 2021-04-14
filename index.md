@@ -5,5 +5,5 @@
 #### Liên hệ
 Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/)             
 Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)          
+Zalo: 08271514 hai hai              
 Skype: thaiquocvo2001@gmail.com   
-Zalo: 08271514 hai hai
