@@ -4,7 +4,7 @@
 
 #### Liên hệ
 Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/)      
-Facebook group1: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (network engineer)    
-Facebook group2: Lập trình C++/Python cơ bản - HSG (thcs/thpt)                                 
+Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (network engineer)    
+Facebook group: ------------ update later -------------- (thcs/thpt)                                 
 Tutor/instructor: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)    
 Phone/Zalo: 08271514 hai hai              
