@@ -5,6 +5,6 @@
 #### Liên hệ
 Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/)      
 Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (network engineer)    
-Facebook group: ---------------- update later ---------------- (thcs/thpt)                                 
+Facebook group: -------------------- update later -------------------- (thcs/thpt)                                 
 Tutor/instructor: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)    
 Phone/Zalo: 08271514 hai hai              
