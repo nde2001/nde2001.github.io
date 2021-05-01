@@ -3,7 +3,7 @@
           
 
 #### Liên hệ
-Facebook: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)    
-Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (network engineer)   
 Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/)      
+Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (network engineer)   
+Tutor/instructor: [https://www.facebook.com/thaiquocvo2001](https://www.facebook.com/thaiquocvo2001)    
 Phone/Zalo: 08271514 hai hai              
