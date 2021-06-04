@@ -4,5 +4,5 @@
 
 #### Liên hệ
 Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/)     
-Teacher/instructor: [thai](https://www.facebook.com/thaiquocvo2001)                                                         
-Zalo: 0827151422                                      
+Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (sinh viên/kỹ sư networking) 
+Teacher/instructor: [thai](https://www.facebook.com/thaiquocvo2001) (Phone/Zalo: 0827151422)                                      
