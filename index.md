@@ -1,5 +1,5 @@
 #### Thông tin các khóa học
-![khoahoc](https://drive.google.com/file/d/14Rt_BJW6abRU5CNzbqB3r68IQJPrAs6b/view)                
+![khoahoc](https://drive.google.com/file/d/14Rt_BJW6abRU5CNzbqB3r68IQJPrAs6b/view?usp=sharing)                
           
 
 #### Liên hệ
