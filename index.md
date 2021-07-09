@@ -1,5 +1,5 @@
 #### Thông tin các khóa học
-![khoahoc](https://www.mediafire.com/view/jw0ztzjjaa7h6av)                
+![khoahoc](https://www.mediafire.com/view/jw0ztzjjaa7h6av/courses.jpg)                
           
 
 #### Liên hệ
