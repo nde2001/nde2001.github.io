@@ -1,5 +1,5 @@
 #### Thông tin các khóa học
-![courses](course2.png)               
+![courses](courses2.png)               
           
 
 #### Liên hệ
