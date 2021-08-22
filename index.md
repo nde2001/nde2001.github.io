@@ -4,7 +4,5 @@
 
 #### Liên hệ
 Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/) (sinh viên/kỹ sư networking)        
-Facebook page: [Network Development Engineer](https://www.facebook.com/programmingna/) (sinh viên/kỹ sư networking)                 
-Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/) (học sinh THPT)   
-Phone/Zalo: 0827151422               
-Teacher/instructor: [thai](https://www.facebook.com/thaiquocvo2001)                                       
+Facebook page: [Programming && NetworkAutomation](https://www.facebook.com/programmingna2001/)            
+Teacher/instructor: [thai](https://www.facebook.com/thaiquocvo2001) (phone/zalo: 0827151422                                       
