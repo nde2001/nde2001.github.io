@@ -6,4 +6,4 @@
 ![course1](course1.png)       
 ### Teacher/instructor 
 #### Facebook: [thai](https://www.facebook.com/thaiquocvo2001)                                      
-#### Phone/zalo: 0827151422                                       
+#### Phone/zalo: 0827.151.422                                       
