@@ -3,7 +3,7 @@
 ![course2](course2.png)            
 ### Học sinh THPT  
 #### Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
-#### Blog: [Programming for High School Students](https://programmingforhss.blogspot.com/)
+#### Blog: [Programming for High School Students](https://programminghss.blogspot.com/)
 ![course1](course1.png)       
 ### Teacher/instructor 
 #### Facebook: [thai](https://www.facebook.com/thaiquocvo2001)                                      
