@@ -2,7 +2,7 @@
 #### Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/)
 ![course2](course2.png)            
 ### Học sinh THPT  
-#### Google Blog: [Programming for High School Students](https://programminghss.blogspot.com/)
+#### Google blog: [Programming for High School Students](https://programminghss.blogspot.com/)
 #### Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
 ![course1](course1.png)       
 ### Teacher/instructor 
