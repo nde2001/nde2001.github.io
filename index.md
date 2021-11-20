@@ -2,7 +2,7 @@
 #### >> Facebook page: [Network Development Engineer](https://www.facebook.com/programmingna)
 #### >> Facebook group: [Programming && NetworkAutomation](https://www.facebook.com/groups/programmingna2001/)
 ![course2](course2.png)            
-### Lập trình giành cho học sinh THPT  
+### Lập trình giành cho học sinh   
 #### >> Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
 #### >> Google blog: [Programming for High School Students](https://programminghss.blogspot.com/)
 ![course1](course1.png)       
