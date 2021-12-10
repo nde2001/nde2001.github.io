@@ -4,7 +4,6 @@
 ![course2](course2.png)            
 ### Lập trình giành cho học sinh   
 #### >> Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
-#### >> Google blog: [Programming for High School Students](https://programminghss.blogspot.com/)
 ![course1](course1.png)       
 ### Teacher/instructor 
 #### >> Facebook: [thai](https://www.facebook.com/thaimbw)                                      
