@@ -6,7 +6,7 @@
 #### >> Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
 ![course1](course1.png)       
 ### Toán giành cho học sinh 
-#### Update later...
+#### >> Facebook page: update later...
 ### Teacher/instructor 
 #### >> Facebook: [thai](https://www.facebook.com/thaimbw)                                      
 #### >> Phone/zalo: [0827.151.422](https://www.facebook.com/thaiquocvo2001)                                         
