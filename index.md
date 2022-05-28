@@ -1,5 +1,5 @@
 ### Toán giành cho học sinh 
-#### >> Facebook page: ......................
+#### >> Facebook page: .....................
 
 ### Lập trình giành cho học sinh   
 #### >> Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
