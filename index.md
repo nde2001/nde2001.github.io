@@ -1,5 +1,5 @@
 ### Toán giành cho học sinh 
-#### >> Facebook page: .....................
+#### >> Facebook: [thai](https://www.facebook.com/thaimbw) 
 ![courses](courses.jpg)
 
 ### Lập trình giành cho học sinh   
@@ -8,8 +8,4 @@
 
 ### Kỹ sư networking 
 #### >> Facebook page: [Network Development Engineer](https://www.facebook.com/programmingna)
-![course2](course2.png)            
-
-### Teacher/instructor 
-#### >> Facebook: [thai](https://www.facebook.com/thaimbw)                                      
-#### >> Phone/zalo: [0827.151.422](https://www.facebook.com/thaiquocvo2001)                                         
+![course2](course2.png)                                                
