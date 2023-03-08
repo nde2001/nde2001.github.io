@@ -3,9 +3,9 @@
 ![courses](courses.png)
 
 ### Lập trình giành cho học sinh   
-#### >> Facebook page: [Programming for High School Students](https://www.facebook.com/programminghss/)
+#### >> Facebook page: [Programming for High School Students](https://www.facebook.com/thaiprogramming/)
 ![course1](course1.png) 
 
 ### Kỹ sư networking 
-#### >> Facebook page: [Network Development Engineer](https://www.facebook.com/programmingna)
+#### >> Facebook page: [Network Development Engineer](https://www.facebook.com/thainetworkauto/)
 ![course2](course2.png)                                                
